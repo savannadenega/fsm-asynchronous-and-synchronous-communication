@@ -1,5 +1,5 @@
 # fsm-asynchronous-and-synchronous-communication
-Desenvolvimento de uma aplicação sobre sobre Máquina de Estados Finita (FSM - Finite State Machine), desenvolvida nos dois modelos de comunicação: Síncrona e Assíncrona, para a disciplina de Arquitetura de Computadores II Unisinos.
+Desenvolvimento de uma aplicação sobre sobre Máquina de Estados Finita (FSM - Finite State Machine), desenvolvida nos dois modelos de comunicação: Síncrona e Assíncrona, para a disciplina de Arquitetura de Computadores II Unisinos-2019.
 
   
 ### Recursos utilizados:
