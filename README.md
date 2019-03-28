@@ -16,5 +16,6 @@ Utilizamos a apliação Online EDAPlayground para execução dos projetos, que e
 [https://www.edaplayground.com/x/5VXh](https://www.edaplayground.com/x/5VXh)
 
 **Authors:**
+
 [Franciele Fagundes](https://github.com/francielenf)  
 [Savanna Denega](https://github.com/savannadenega)
